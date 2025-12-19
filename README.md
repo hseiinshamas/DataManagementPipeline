@@ -73,13 +73,11 @@ The cleaned dataset was stored in two databases:
 
 ## 📊 Example Visualizations
 
-**Correlation Heatmap:**  
-![Correlation Heatmap](images/correlation_heatmap.png)
 
 **Distribution of TMDb Ratings:**  
 ![TMDb Ratings Distribution](images/tmdb_ratings_distribution.png)
 
-*Replace `images/...` with your actual screenshot paths.*
+
 
 ---
 
