@@ -87,4 +87,3 @@ The cleaned dataset was stored in two databases:
 ```bash
 git clone https://github.com/yourusername/movie-data-analysis.git
 cd movie-data-analysis
-
